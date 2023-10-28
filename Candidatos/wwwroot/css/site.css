@@ -46,10 +46,20 @@ main {
 }
 
 .contact-info {
-    margin-top: 50px; /* Ajusta el valor según tus necesidades */
+    margin-top: 280px; /* Ajusta el valor según tus necesidades */
 }
 
 .info {
     padding-top: 10px;
     padding-bottom: 15px;
+}
+
+.nav {
+    background-color: #6c20cb !important;
+}
+
+.img-Resp {
+    max-width: 100%;
+    width: 300px;
+    height: auto;
 }
